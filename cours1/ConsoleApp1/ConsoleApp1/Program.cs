@@ -9,7 +9,7 @@ class Exemple
         Console.WriteLine("fonction A :" + assignVarB(5));
         Console.WriteLine(nom);
         String test = new String("test123");
-        Console.WriteLine(test);
+        Console.WriteLine(test) ;
 
         RunExemple();
 
