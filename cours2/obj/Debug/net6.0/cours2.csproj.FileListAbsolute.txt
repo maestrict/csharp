@@ -1,0 +1,15 @@
+/home/maes/Documents/projets/cours2/bin/Debug/net6.0/cours2
+/home/maes/Documents/projets/cours2/bin/Debug/net6.0/cours2.deps.json
+/home/maes/Documents/projets/cours2/bin/Debug/net6.0/cours2.runtimeconfig.json
+/home/maes/Documents/projets/cours2/bin/Debug/net6.0/cours2.dll
+/home/maes/Documents/projets/cours2/bin/Debug/net6.0/cours2.pdb
+/home/maes/Documents/projets/cours2/obj/Debug/net6.0/cours2.csproj.AssemblyReference.cache
+/home/maes/Documents/projets/cours2/obj/Debug/net6.0/cours2.GeneratedMSBuildEditorConfig.editorconfig
+/home/maes/Documents/projets/cours2/obj/Debug/net6.0/cours2.AssemblyInfoInputs.cache
+/home/maes/Documents/projets/cours2/obj/Debug/net6.0/cours2.AssemblyInfo.cs
+/home/maes/Documents/projets/cours2/obj/Debug/net6.0/cours2.csproj.CoreCompileInputs.cache
+/home/maes/Documents/projets/cours2/obj/Debug/net6.0/cours2.dll
+/home/maes/Documents/projets/cours2/obj/Debug/net6.0/refint/cours2.dll
+/home/maes/Documents/projets/cours2/obj/Debug/net6.0/cours2.pdb
+/home/maes/Documents/projets/cours2/obj/Debug/net6.0/cours2.genruntimeconfig.cache
+/home/maes/Documents/projets/cours2/obj/Debug/net6.0/ref/cours2.dll
