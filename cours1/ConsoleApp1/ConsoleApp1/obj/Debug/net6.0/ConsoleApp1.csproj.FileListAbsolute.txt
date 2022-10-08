@@ -1,0 +1,30 @@
+C:/Users/Ben/Desktop/IFOSUP2/Projet de développement web/projets/cours1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.AssemblyReference.cache
+C:/Users/Ben/Desktop/IFOSUP2/Projet de développement web/projets/cours1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Ben/Desktop/IFOSUP2/Projet de développement web/projets/cours1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfoInputs.cache
+C:/Users/Ben/Desktop/IFOSUP2/Projet de développement web/projets/cours1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfo.cs
+C:/Users/Ben/Desktop/IFOSUP2/Projet de développement web/projets/cours1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+C:/Users/Ben/Desktop/IFOSUP2/Projet de développement web/projets/cours1/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.exe
+C:/Users/Ben/Desktop/IFOSUP2/Projet de développement web/projets/cours1/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.deps.json
+C:/Users/Ben/Desktop/IFOSUP2/Projet de développement web/projets/cours1/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.runtimeconfig.json
+C:/Users/Ben/Desktop/IFOSUP2/Projet de développement web/projets/cours1/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.dll
+C:/Users/Ben/Desktop/IFOSUP2/Projet de développement web/projets/cours1/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.pdb
+C:/Users/Ben/Desktop/IFOSUP2/Projet de développement web/projets/cours1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.dll
+C:/Users/Ben/Desktop/IFOSUP2/Projet de développement web/projets/cours1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/refint/ConsoleApp1.dll
+C:/Users/Ben/Desktop/IFOSUP2/Projet de développement web/projets/cours1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.pdb
+C:/Users/Ben/Desktop/IFOSUP2/Projet de développement web/projets/cours1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.genruntimeconfig.cache
+C:/Users/Ben/Desktop/IFOSUP2/Projet de développement web/projets/cours1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ref/ConsoleApp1.dll
+/home/maes/Documents/projets/cours1/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1
+/home/maes/Documents/projets/cours1/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.deps.json
+/home/maes/Documents/projets/cours1/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.runtimeconfig.json
+/home/maes/Documents/projets/cours1/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.dll
+/home/maes/Documents/projets/cours1/ConsoleApp1/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.pdb
+/home/maes/Documents/projets/cours1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.AssemblyReference.cache
+/home/maes/Documents/projets/cours1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/maes/Documents/projets/cours1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/maes/Documents/projets/cours1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfo.cs
+/home/maes/Documents/projets/cours1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/maes/Documents/projets/cours1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.dll
+/home/maes/Documents/projets/cours1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/refint/ConsoleApp1.dll
+/home/maes/Documents/projets/cours1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.pdb
+/home/maes/Documents/projets/cours1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.genruntimeconfig.cache
+/home/maes/Documents/projets/cours1/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ref/ConsoleApp1.dll
