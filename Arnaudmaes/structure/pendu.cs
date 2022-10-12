@@ -31,9 +31,6 @@ namespace arnaudmaes.Structures
             _generalCount = generalCount;
         }
 
-        /// <summary>
-        /// ajoute des km la voiture
-        /// </summary>
         public string verif(string lettre)
         {
          int count = 0;
