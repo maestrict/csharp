@@ -15,11 +15,16 @@ namespace arnaudmaes.Structures
         private int _generalCount;
         public int generalCount { get {return _generalCount;} set { _generalCount = value; }}
 
+        private int _countTabRater = 5;
+        public int countTabRater { get {return _countTabRater;} set { _countTabRater = value; }}
 
-        private char[] _lettreTrouve = new char[100];
+        private int _countTabWin = 5;
+        public int countTabWin { get {return _countTabWin;} set { _countTabWin = value; }}
+
+        private char[] _lettreTrouve = new char[5];
 
         public char[] lettreTrouve { get {return _lettreTrouve;}}
-        private char[] _lettrerater = new char[100];
+        private char[] _lettrerater = new char[5];
         public char[] lettrerater { get {return _lettrerater;}}
         private char[] _mot;
         public char[] mot { get {return _mot;}}
@@ -42,10 +47,13 @@ namespace arnaudmaes.Structures
          }
          if(count>0){
             System.Console.WriteLine("félicitation");
-            lettreTrouve[lettreTrouve.Length-1]= lettre[0];
+            lettreTrouve[lettreTrouve.Length-countTabWin]= lettre[0];
+            countTabWin--;
          }else{
             life--;
-            lettrerater[lettrerater.Length-1] = lettre[0];
+            lettrerater[lettrerater.Length-countTabRater] = lettre[0];
+            System.Console.WriteLine("Mauvais");
+            countTabRater--;
          }
          return lettre;   
         }
