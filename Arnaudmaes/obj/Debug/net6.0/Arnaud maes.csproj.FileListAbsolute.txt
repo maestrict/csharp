@@ -13,3 +13,18 @@
 /home/maes/Documents/projets/Csharp/Arnaud maes/obj/Debug/net6.0/Arnaud maes.pdb
 /home/maes/Documents/projets/Csharp/Arnaud maes/obj/Debug/net6.0/Arnaud maes.genruntimeconfig.cache
 /home/maes/Documents/projets/Csharp/Arnaud maes/obj/Debug/net6.0/ref/Arnaud maes.dll
+/home/maes/Documents/projets/Csharp/Arnaudmaes/obj/Debug/net6.0/Arnaud maes.csproj.AssemblyReference.cache
+/home/maes/Documents/projets/Csharp/Arnaudmaes/obj/Debug/net6.0/Arnaud maes.GeneratedMSBuildEditorConfig.editorconfig
+/home/maes/Documents/projets/Csharp/Arnaudmaes/obj/Debug/net6.0/Arnaud maes.AssemblyInfoInputs.cache
+/home/maes/Documents/projets/Csharp/Arnaudmaes/obj/Debug/net6.0/Arnaud maes.AssemblyInfo.cs
+/home/maes/Documents/projets/Csharp/Arnaudmaes/obj/Debug/net6.0/Arnaud maes.csproj.CoreCompileInputs.cache
+/home/maes/Documents/projets/Csharp/Arnaudmaes/obj/Debug/net6.0/Arnaud maes.dll
+/home/maes/Documents/projets/Csharp/Arnaudmaes/obj/Debug/net6.0/refint/Arnaud maes.dll
+/home/maes/Documents/projets/Csharp/Arnaudmaes/obj/Debug/net6.0/Arnaud maes.pdb
+/home/maes/Documents/projets/Csharp/Arnaudmaes/bin/Debug/net6.0/Arnaud maes
+/home/maes/Documents/projets/Csharp/Arnaudmaes/bin/Debug/net6.0/Arnaud maes.deps.json
+/home/maes/Documents/projets/Csharp/Arnaudmaes/bin/Debug/net6.0/Arnaud maes.runtimeconfig.json
+/home/maes/Documents/projets/Csharp/Arnaudmaes/bin/Debug/net6.0/Arnaud maes.dll
+/home/maes/Documents/projets/Csharp/Arnaudmaes/bin/Debug/net6.0/Arnaud maes.pdb
+/home/maes/Documents/projets/Csharp/Arnaudmaes/obj/Debug/net6.0/Arnaud maes.genruntimeconfig.cache
+/home/maes/Documents/projets/Csharp/Arnaudmaes/obj/Debug/net6.0/ref/Arnaud maes.dll

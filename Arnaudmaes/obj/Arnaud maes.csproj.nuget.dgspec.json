@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/maes/Documents/projets/Csharp/Arnaud maes/Arnaud maes.csproj": {}
+    "/home/maes/Documents/projets/Csharp/Arnaudmaes/Arnaud maes.csproj": {}
   },
   "projects": {
-    "/home/maes/Documents/projets/Csharp/Arnaud maes/Arnaud maes.csproj": {
+    "/home/maes/Documents/projets/Csharp/Arnaudmaes/Arnaud maes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/maes/Documents/projets/Csharp/Arnaud maes/Arnaud maes.csproj",
+        "projectUniqueName": "/home/maes/Documents/projets/Csharp/Arnaudmaes/Arnaud maes.csproj",
         "projectName": "Arnaud maes",
-        "projectPath": "/home/maes/Documents/projets/Csharp/Arnaud maes/Arnaud maes.csproj",
+        "projectPath": "/home/maes/Documents/projets/Csharp/Arnaudmaes/Arnaud maes.csproj",
         "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/home/maes/Documents/projets/Csharp/Arnaud maes/obj/",
+        "outputPath": "/home/maes/Documents/projets/Csharp/Arnaudmaes/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/root/.nuget/NuGet/NuGet.Config"
