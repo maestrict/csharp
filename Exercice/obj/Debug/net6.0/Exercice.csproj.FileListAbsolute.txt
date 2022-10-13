@@ -1,0 +1,15 @@
+/home/maes/Documents/projets/Exercice/bin/Debug/net6.0/Exercice
+/home/maes/Documents/projets/Exercice/bin/Debug/net6.0/Exercice.deps.json
+/home/maes/Documents/projets/Exercice/bin/Debug/net6.0/Exercice.runtimeconfig.json
+/home/maes/Documents/projets/Exercice/bin/Debug/net6.0/Exercice.dll
+/home/maes/Documents/projets/Exercice/bin/Debug/net6.0/Exercice.pdb
+/home/maes/Documents/projets/Exercice/obj/Debug/net6.0/Exercice.csproj.AssemblyReference.cache
+/home/maes/Documents/projets/Exercice/obj/Debug/net6.0/Exercice.GeneratedMSBuildEditorConfig.editorconfig
+/home/maes/Documents/projets/Exercice/obj/Debug/net6.0/Exercice.AssemblyInfoInputs.cache
+/home/maes/Documents/projets/Exercice/obj/Debug/net6.0/Exercice.AssemblyInfo.cs
+/home/maes/Documents/projets/Exercice/obj/Debug/net6.0/Exercice.csproj.CoreCompileInputs.cache
+/home/maes/Documents/projets/Exercice/obj/Debug/net6.0/Exercice.dll
+/home/maes/Documents/projets/Exercice/obj/Debug/net6.0/refint/Exercice.dll
+/home/maes/Documents/projets/Exercice/obj/Debug/net6.0/Exercice.pdb
+/home/maes/Documents/projets/Exercice/obj/Debug/net6.0/Exercice.genruntimeconfig.cache
+/home/maes/Documents/projets/Exercice/obj/Debug/net6.0/ref/Exercice.dll

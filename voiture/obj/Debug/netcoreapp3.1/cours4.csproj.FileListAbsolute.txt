@@ -1,0 +1,6 @@
+/home/maes/Documents/projetCsharp/csharp-main/voiture/obj/Debug/netcoreapp3.1/cours4.csprojAssemblyReference.cache
+/home/maes/Documents/projetCsharp/csharp-main/voiture/obj/Debug/netcoreapp3.1/cours4.AssemblyInfoInputs.cache
+/home/maes/Documents/projetCsharp/csharp-main/voiture/obj/Debug/netcoreapp3.1/cours4.AssemblyInfo.cs
+/home/maes/Documents/projetCsharp/csharp-main/voiture/obj/Debug/netcoreapp3.1/cours4.csproj.CoreCompileInputs.cache
+/home/maes/Documents/projetCsharp/csharp-main/voiture/obj/Debug/netcoreapp3.1/cours4.csproj.AssemblyReference.cache
+/home/maes/Documents/projetCsharp/csharp-main/voiture/obj/Debug/netcoreapp3.1/cours4.GeneratedMSBuildEditorConfig.editorconfig

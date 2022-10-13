@@ -1,0 +1,4 @@
+/home/maes/Documents/projetCsharp/csharp-main/cours2/obj/Debug/netcoreapp3.1/cours2.csprojAssemblyReference.cache
+/home/maes/Documents/projetCsharp/csharp-main/cours2/obj/Debug/netcoreapp3.1/cours2.AssemblyInfoInputs.cache
+/home/maes/Documents/projetCsharp/csharp-main/cours2/obj/Debug/netcoreapp3.1/cours2.AssemblyInfo.cs
+/home/maes/Documents/projetCsharp/csharp-main/cours2/obj/Debug/netcoreapp3.1/cours2.csproj.CoreCompileInputs.cache
