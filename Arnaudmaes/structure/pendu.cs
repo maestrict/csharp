@@ -22,7 +22,7 @@ namespace arnaudmaes.Structures
         public int countTabWin { get {return _countTabWin;} set { _countTabWin = value; }}
 
         private char[] _lettreTrouve = new char[5];
-
+    
         public char[] lettreTrouve { get {return _lettreTrouve;}}
         private char[] _lettrerater = new char[5];
         public char[] lettrerater { get {return _lettrerater;}}
