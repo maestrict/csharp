@@ -1,0 +1,15 @@
+/home/maes/Documents/projets/Csharp/cours5/bin/Debug/net6.0/cours5
+/home/maes/Documents/projets/Csharp/cours5/bin/Debug/net6.0/cours5.deps.json
+/home/maes/Documents/projets/Csharp/cours5/bin/Debug/net6.0/cours5.runtimeconfig.json
+/home/maes/Documents/projets/Csharp/cours5/bin/Debug/net6.0/cours5.dll
+/home/maes/Documents/projets/Csharp/cours5/bin/Debug/net6.0/cours5.pdb
+/home/maes/Documents/projets/Csharp/cours5/obj/Debug/net6.0/cours5.csproj.AssemblyReference.cache
+/home/maes/Documents/projets/Csharp/cours5/obj/Debug/net6.0/cours5.GeneratedMSBuildEditorConfig.editorconfig
+/home/maes/Documents/projets/Csharp/cours5/obj/Debug/net6.0/cours5.AssemblyInfoInputs.cache
+/home/maes/Documents/projets/Csharp/cours5/obj/Debug/net6.0/cours5.AssemblyInfo.cs
+/home/maes/Documents/projets/Csharp/cours5/obj/Debug/net6.0/cours5.csproj.CoreCompileInputs.cache
+/home/maes/Documents/projets/Csharp/cours5/obj/Debug/net6.0/cours5.dll
+/home/maes/Documents/projets/Csharp/cours5/obj/Debug/net6.0/refint/cours5.dll
+/home/maes/Documents/projets/Csharp/cours5/obj/Debug/net6.0/cours5.pdb
+/home/maes/Documents/projets/Csharp/cours5/obj/Debug/net6.0/cours5.genruntimeconfig.cache
+/home/maes/Documents/projets/Csharp/cours5/obj/Debug/net6.0/ref/cours5.dll

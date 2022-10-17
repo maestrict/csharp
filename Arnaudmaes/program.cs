@@ -13,10 +13,10 @@ int tailleMot=mot.Length;
 pendu pendu = new pendu(array, tailleMot);
 System.Console.WriteLine(tailleMot);
 while(pendu.generalCount != 0){
+    Console.Clear();
     System.Console.WriteLine(" ");
     System.Console.WriteLine("Quelle lettre?");
-    string lettre = Console.ReadLine();
-    pendu.verif(lettre);
+    
     System.Console.WriteLine("Il vous reste " + pendu.life + " vies");
     System.Console.Write("Vous avez déjà essayer les lettres :"); 
     for(int i=0; i<pendu.lettrerater.Length;i++){
@@ -26,11 +26,16 @@ while(pendu.generalCount != 0){
     for(int i=0; i<pendu.lettreTrouve.Length;i++){
         System.Console.Write(pendu.lettreTrouve[i] + " " );
     }
+    string lettre = Console.ReadLine();
+    pendu.verif(lettre);
     if(pendu.life==0){
         System.Console.WriteLine("");
         System.Console.WriteLine("c'est perdu");
+        System.Console.WriteLine("le mot a trouvé était : " + mot);
         break;
     }
+    Thread.Sleep(2000);
+
 }
 if(pendu.generalCount==0){
     System.Console.WriteLine(("félicitation vous avez trouvé le mot!"));
