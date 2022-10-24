@@ -1,0 +1,15 @@
+/home/maes/Documents/projets/Csharp/cours6/obj/Debug/net6.0/cours6.csproj.AssemblyReference.cache
+/home/maes/Documents/projets/Csharp/cours6/obj/Debug/net6.0/cours6.GeneratedMSBuildEditorConfig.editorconfig
+/home/maes/Documents/projets/Csharp/cours6/obj/Debug/net6.0/cours6.AssemblyInfoInputs.cache
+/home/maes/Documents/projets/Csharp/cours6/obj/Debug/net6.0/cours6.AssemblyInfo.cs
+/home/maes/Documents/projets/Csharp/cours6/obj/Debug/net6.0/cours6.csproj.CoreCompileInputs.cache
+/home/maes/Documents/projets/Csharp/cours6/bin/Debug/net6.0/cours6
+/home/maes/Documents/projets/Csharp/cours6/bin/Debug/net6.0/cours6.deps.json
+/home/maes/Documents/projets/Csharp/cours6/bin/Debug/net6.0/cours6.runtimeconfig.json
+/home/maes/Documents/projets/Csharp/cours6/bin/Debug/net6.0/cours6.dll
+/home/maes/Documents/projets/Csharp/cours6/bin/Debug/net6.0/cours6.pdb
+/home/maes/Documents/projets/Csharp/cours6/obj/Debug/net6.0/cours6.dll
+/home/maes/Documents/projets/Csharp/cours6/obj/Debug/net6.0/refint/cours6.dll
+/home/maes/Documents/projets/Csharp/cours6/obj/Debug/net6.0/cours6.pdb
+/home/maes/Documents/projets/Csharp/cours6/obj/Debug/net6.0/cours6.genruntimeconfig.cache
+/home/maes/Documents/projets/Csharp/cours6/obj/Debug/net6.0/ref/cours6.dll

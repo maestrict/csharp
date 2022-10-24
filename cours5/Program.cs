@@ -15,7 +15,8 @@ account1.Withdrawal(50);
 System.Console.WriteLine($"Le compte de {account1.Owner.Name} est de {account1.Balance}");
 Bank bank1 = new Bank("BNP", account1);
 System.Console.WriteLine($"{bank1.Compte.Owner.Name}");
-
+System.Console.WriteLine(bank1.Nom);
+System.Console.WriteLine(account1.Balance);
 
 class Personne{
 
@@ -29,7 +30,7 @@ class Personne{
         Birthdate = birtname;
     }
 }
-class CurrentAccount{
+class CurrentAccount {
     public string Number { get;set;}
     public double Balance { get;set;}
     public double CreditLine { get;set;}
