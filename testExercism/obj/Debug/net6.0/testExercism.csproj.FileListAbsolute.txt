@@ -1,0 +1,15 @@
+/home/maes/Documents/projets/Csharp/testExercism/bin/Debug/net6.0/testExercism
+/home/maes/Documents/projets/Csharp/testExercism/bin/Debug/net6.0/testExercism.deps.json
+/home/maes/Documents/projets/Csharp/testExercism/bin/Debug/net6.0/testExercism.runtimeconfig.json
+/home/maes/Documents/projets/Csharp/testExercism/bin/Debug/net6.0/testExercism.dll
+/home/maes/Documents/projets/Csharp/testExercism/bin/Debug/net6.0/testExercism.pdb
+/home/maes/Documents/projets/Csharp/testExercism/obj/Debug/net6.0/testExercism.csproj.AssemblyReference.cache
+/home/maes/Documents/projets/Csharp/testExercism/obj/Debug/net6.0/testExercism.GeneratedMSBuildEditorConfig.editorconfig
+/home/maes/Documents/projets/Csharp/testExercism/obj/Debug/net6.0/testExercism.AssemblyInfoInputs.cache
+/home/maes/Documents/projets/Csharp/testExercism/obj/Debug/net6.0/testExercism.AssemblyInfo.cs
+/home/maes/Documents/projets/Csharp/testExercism/obj/Debug/net6.0/testExercism.csproj.CoreCompileInputs.cache
+/home/maes/Documents/projets/Csharp/testExercism/obj/Debug/net6.0/testExercism.dll
+/home/maes/Documents/projets/Csharp/testExercism/obj/Debug/net6.0/refint/testExercism.dll
+/home/maes/Documents/projets/Csharp/testExercism/obj/Debug/net6.0/testExercism.pdb
+/home/maes/Documents/projets/Csharp/testExercism/obj/Debug/net6.0/testExercism.genruntimeconfig.cache
+/home/maes/Documents/projets/Csharp/testExercism/obj/Debug/net6.0/ref/testExercism.dll
