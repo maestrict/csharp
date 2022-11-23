@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/home/maes/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/maes/Documents/projets/Exercice_Voiture_V2/cours4.csproj",
+      "projectUniqueName": "/home/maes/Documents/project/csharp/voiture/cours4.csproj",
       "projectName": "cours4",
-      "projectPath": "/home/maes/Documents/projets/Exercice_Voiture_V2/cours4.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/home/maes/Documents/projets/Exercice_Voiture_V2/obj/",
+      "projectPath": "/home/maes/Documents/project/csharp/voiture/cours4.csproj",
+      "packagesPath": "/home/maes/.nuget/packages/",
+      "outputPath": "/home/maes/Documents/project/csharp/voiture/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/maes/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
       }
     }
   }
