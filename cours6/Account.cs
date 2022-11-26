@@ -10,7 +10,12 @@ abstract class Account{
     }
 
     public void Withdraw(double amount){
-        Balance -= amount;
+          
+            if(Balance-amount>0){
+                Balance -= amount;
+            }else{
+                throw new Exception();
+            }
     }
     public void Deposit(double amount){
         Balance += amount;

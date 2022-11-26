@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Qv1GKmH7B+MpSLngiabhCa7ZIPB+ZCL0l72yjbPRlQYieKorFtjT7oiWBpzoziym9tZhUApOfp3r6C4vk3BmQ==",
+  "dgSpecHash": "+zE2YNqZInLjZKNFQCFZ4Vi+7bkc5WPo5z6RqGSc+UgTen5JwDo3argiZNDUfOhNGJ4i0Fdmfvk6ev/2VO6M4w==",
   "success": true,
-  "projectFilePath": "/home/maes/Documents/projets/Csharp/cours6/cours6.csproj",
+  "projectFilePath": "/home/maes/Documents/project/csharp/cours6/cours6.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,15 @@
+/home/maes/Documents/project/csharp/ProjetBank/bin/Debug/net6.0/ProjetBank
+/home/maes/Documents/project/csharp/ProjetBank/bin/Debug/net6.0/ProjetBank.deps.json
+/home/maes/Documents/project/csharp/ProjetBank/bin/Debug/net6.0/ProjetBank.runtimeconfig.json
+/home/maes/Documents/project/csharp/ProjetBank/bin/Debug/net6.0/ProjetBank.dll
+/home/maes/Documents/project/csharp/ProjetBank/bin/Debug/net6.0/ProjetBank.pdb
+/home/maes/Documents/project/csharp/ProjetBank/obj/Debug/net6.0/ProjetBank.csproj.AssemblyReference.cache
+/home/maes/Documents/project/csharp/ProjetBank/obj/Debug/net6.0/ProjetBank.GeneratedMSBuildEditorConfig.editorconfig
+/home/maes/Documents/project/csharp/ProjetBank/obj/Debug/net6.0/ProjetBank.AssemblyInfoInputs.cache
+/home/maes/Documents/project/csharp/ProjetBank/obj/Debug/net6.0/ProjetBank.AssemblyInfo.cs
+/home/maes/Documents/project/csharp/ProjetBank/obj/Debug/net6.0/ProjetBank.csproj.CoreCompileInputs.cache
+/home/maes/Documents/project/csharp/ProjetBank/obj/Debug/net6.0/ProjetBank.dll
+/home/maes/Documents/project/csharp/ProjetBank/obj/Debug/net6.0/refint/ProjetBank.dll
+/home/maes/Documents/project/csharp/ProjetBank/obj/Debug/net6.0/ProjetBank.pdb
+/home/maes/Documents/project/csharp/ProjetBank/obj/Debug/net6.0/ProjetBank.genruntimeconfig.cache
+/home/maes/Documents/project/csharp/ProjetBank/obj/Debug/net6.0/ref/ProjetBank.dll

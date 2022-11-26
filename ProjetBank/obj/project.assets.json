@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/maes/.nuget/packages/": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/maes/Documents/project/csharp/cours6/cours6.csproj",
-      "projectName": "cours6",
-      "projectPath": "/home/maes/Documents/project/csharp/cours6/cours6.csproj",
-      "packagesPath": "/home/maes/.nuget/packages/",
-      "outputPath": "/home/maes/Documents/project/csharp/cours6/obj/",
+      "projectUniqueName": "/home/maes/Documents/project/csharp/ProjetBank/ProjetBank.csproj",
+      "projectName": "ProjetBank",
+      "projectPath": "/home/maes/Documents/project/csharp/ProjetBank/ProjetBank.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/home/maes/Documents/project/csharp/ProjetBank/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/maes/.nuget/NuGet/NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
