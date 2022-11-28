@@ -86,3 +86,7 @@ accès en lecture au « Owner » et au « Number ».
 22.Au Niveau de la classe « Bank » : 
     1.Ajouter une méthode qui traitera l’événement « NegativeBalanceAction » en affichant dans ma console « Le numéro de compte 
     {Number} vient de passer en négatif ». 
+
+23.Dans la classe « Account » : 
+    1.Supprimez la déclaration du type délégué « BalanceNegativeDelegate »
+    2.Changez le type de l’événement appelé « BalanceNegativeEvent » en utilisant le délégué « Action » ou « Func ». 
