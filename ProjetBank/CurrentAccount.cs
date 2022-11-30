@@ -1,12 +1,18 @@
 using System;
 
-class CurrentAccount{
+class CurrentAccount : Account
+{ 
 
+    public double CreditLine {get;}
 
-    public string Number{get;set;}
-    public double Balance {get;}
-    public double CreditLine {get;set;}
-    public Person Owner{get;set;}
+    public CurrentAccount(string number, double balance, double creditline, Person owner) : base(number,balance,owner){
+        CreditLine = creditline;
+    }
+
+    public override void Withdraw(double amount)
+    {
+        Balance -= amount;
+    }
 
 
 }
