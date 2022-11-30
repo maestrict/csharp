@@ -1,8 +1,8 @@
 using System;
 
-class Bank{
+public class Bank{
 
-    public Dictionary<int, CurrentAccount> Accounts {get;}
+    public Dictionary<string, Account> Accounts {get; private set;}
     public string Name;
     
     public Bank(string name){
@@ -10,15 +10,13 @@ class Bank{
         Accounts = new();
     }
 
-    public void AddAccount(CurrentAccount account){
-        if(Accounts.Count>0){
-            Accounts.Add(Accounts.Count+1, account);
-        }else{
-            Accounts.Add(1,account);
-        }
+    public void AddAccount(Account account){
+
+        Accounts.Add(account.Number, account);
+
     }
     public void DeleteAccount(string number){
-
+        Accounts.Remove(number);
     }
 
 

@@ -1,7 +1,7 @@
-abstract class Account{
+public abstract class Account{
 
     public string Number {get; set;}
-    public double Balance {get; private set;}
+    public double Balance {get; protected set;}
     public Person Owner {get; set;}
 
     public Account(string number, double balance, Person owner){
@@ -9,11 +9,9 @@ abstract class Account{
         Balance = balance;
         Owner = owner;
     }
-    public abstract void Withdraw();
+    public abstract void Withdraw(double amount);
     public void Deposit(double amount){
         Balance += amount;
     }
-
-
 
 }

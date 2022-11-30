@@ -1,6 +1,6 @@
 using System;
 
-class CurrentAccount : Account
+public class CurrentAccount : Account
 { 
 
     public double CreditLine {get;}

@@ -1,6 +1,6 @@
 using System;
 
-class Saving : Account
+public class Saving : Account
 {
 
     public DateTime DateLastWithdraw {get;set;}
